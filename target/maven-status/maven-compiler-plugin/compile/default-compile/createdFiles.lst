@@ -1,0 +1,5 @@
+br/com/labor/entidades/Turno_.class
+br/com/labor/entidades/Turno.class
+br/com/labor/util/EntityManagerUtil.class
+.netbeans_automatic_build
+br/com/labor/servlets/IndexServlet.class
